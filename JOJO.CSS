@@ -630,7 +630,7 @@ text-align: center;
 top: 0;
 width: 7em;
 right: 0;
-background: #482c80;
+background: #00a5e4;
 z-index: 9999
 }
 #header h1, #header h2, #header h3, #header h4, #header h5, #header h6 {
@@ -1210,7 +1210,7 @@ width: 160px;
 transition: all 500ms ease;
 }
 .proger .item:hover .thumbnail {
-background: #482c80;
+background: #00a5e4;
 }
 .proger .item img{
 display: block;
@@ -1239,7 +1239,7 @@ transition: all 500ms ease;
 }
 .proger .item:hover .view {
 font-size: 3em;
-color: #482c80;
+color: #00a5e4;
 } #four {
 padding: 40px 0;
 min-height: 100vh;
@@ -1498,8 +1498,8 @@ outline: none
 }
 .comments .btn-default {
 color: #FFFFFF;
-background-color: #482c80;
-border-color: #482c80;
+background-color: #00a5e4;
+border-color: #00a5e4;
 padding: 9px 20px;
 vertical-align: inherit;
 }
